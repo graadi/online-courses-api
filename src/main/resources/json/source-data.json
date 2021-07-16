@@ -1,0 +1,45 @@
+[{
+	"courseName": "Complete Java Masterclass",
+	"courseAuthor": "Goran Lochert",
+	"courseSummary": "Learn to master Java 8 and Java 9 core development step-by-step, and make your first unique, advanced program in 30 days",
+	"courseLength": "76 hours on-demand video",
+	"coursePrice": 15.99,
+	"courseRating": 4.5,
+	"courseLogo": "https://s4827.pcdn.co/wp-content/uploads/2011/06/Java-Logo.jpg"
+},
+{
+	"courseName": "Java for beginners course (Core concepts)",
+	"courseAuthor": "Chaand Sheikh",
+	"courseSummary": "It\u0027s would be among best Java course for beginners",
+	"courseLength": "8.5 hours on-demand video",
+	"coursePrice": 10.99,
+	"courseRating": 4.9,
+	"courseLogo": "https://www.javacodegeeks.com/wp-content/uploads/2015/10/java-concurrency-course-logo-300x300.jpg"
+},
+{
+	"courseName": "Angular 6 (formerly Angular 2) - The Complete Guide",
+	"courseAuthor": "Maximilian Schwarzmuller",
+	"courseSummary": "Master Angular (Angular 2+, incl. Angular 6) and build awesome, reactive web apps with the successor of Angular.js",
+	"courseLength": "28 hours on-demand video",
+	"coursePrice": 25.99,
+	"courseRating": 5.0,
+	"courseLogo": "https://resources.cloud.genuitec.com/wp-content/uploads/2018/02/angular-course-blog.png"
+},
+{
+	"courseName": "The Complete Node.js Developer Course (2nd Edition)",
+	"courseAuthor": "Rob Percival,Andrew Mead",
+	"courseSummary": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!",
+	"courseLength": "26.5 hours on-demand video",
+	"coursePrice": 14.99,
+	"courseRating": 3.7,
+	"courseLogo": "https://static.makeuseof.com/wp-content/uploads/2013/07/featured-node.jpg"
+},
+{
+	"courseName": "Python A-Z: Python For Data Science With Real Exercises!",
+	"courseAuthor": "Kirill Eremenko",
+	"courseSummary": "Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization",
+	"courseLength": "11 hours on-demand video",
+	"coursePrice": 33.99,
+	"courseRating": 4.1,
+	"courseLogo": "https://www.gohtci.com/wp-content/uploads/2017/11/python-300x300-900x.png"
+}]
