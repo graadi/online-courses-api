@@ -19,7 +19,7 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping("/online-courses-api")
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@Api(value = "List all available Online Course Objects. XXX")
+@Api(value = "List all available Online Course Objects.")
 public class OnlineCoursesController {
 
   @Autowired
